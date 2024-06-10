@@ -43,3 +43,4 @@ print(type(name)) # <class 'int'>
 age = 48
 print(age)
 print(type(age))
+print(type(age))
