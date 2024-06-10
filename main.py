@@ -16,4 +16,4 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 # dwa razy shift - podreczna wyszukiwarka
 # ctrl alt l - formatowanie kodu do zasad PEP8
-# lubie placki
+# lubie placki xxx
