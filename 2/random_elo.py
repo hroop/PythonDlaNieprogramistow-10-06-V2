@@ -37,3 +37,4 @@ print(random.sample(lisa_kule, k=6))
 print(random.sample(lisa_kule, k=6))
 
 print(lisa_kule)
+
